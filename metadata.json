@@ -1,0 +1,7 @@
+{
+  "name": "Dreamweaver Bedtime Stories",
+  "description": "A magical bedtime story generator that creates unique, personalized stories and narrates them with soothing audio.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
